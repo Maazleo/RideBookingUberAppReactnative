@@ -63,16 +63,3 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/douglasporto/uber-react-native/blob/master/LICENSE) for more information.
-
----
-
-Made with ♥ by Douglas Porto :wave: [Get in touch!](https://www.linkedin.com/in/douglas-porto/)
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
