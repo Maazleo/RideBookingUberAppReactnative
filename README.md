@@ -7,26 +7,7 @@
 <h4 align="center">
   The Uber Interfacce by React Native
 </h4>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/uber-react-native.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/uber-react-native.svg">
-
-  <a href="https://www.codacy.com/app/douglasporto/uber-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=douglasporto/uber-react-native&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/f61b39d3b1354bb9b804612d1d026e9b">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasporto/uber-react-native.svg">
-  <a href="https://github.com/douglasporto/uber-react-native/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasporto/uber-react-native.svg">
-  </a>
-
-  <a href="https://github.com/douglasporto/uber-react-native/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasporto/uber-react-native.svg">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/uber-react-native.svg">
-</p>
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
